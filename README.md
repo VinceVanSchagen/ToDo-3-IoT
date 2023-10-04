@@ -6,9 +6,9 @@ For the Hue creation you wil need a
 -1x Led strip with wires
 -1x cable to transfer data
 
-##Software required
+## Software required
 -Arduino IDE
-###Libraries
+### Libraries
 -Adafruit IO Arduino
 
 
