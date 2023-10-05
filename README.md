@@ -31,6 +31,10 @@ In Arduino go to File > Examples > Adafruit IO Arduino > Adafruitio_14_neopixel.
 Upload your code (shortcut cmd + u).
 Open the serial monitor by clicking the loop icon at the top right. Adjust the serial monitor to 115200 baud. If the upload was succesfull, you can restart the serial monitor and check if you see the following "Received HEX: #47aeb1". Now you can adjust the light with the color picker on Adafruit IO.
 
+# sources
+https://io.adafruit.com
+https://docs.google.com/document/d/1l_9xpU-n7Rhxj-L3wI72Kvc3GQ9q6tFl955J2NTYF9k/edit
+
 
 
 
